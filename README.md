@@ -2,7 +2,7 @@
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/alfonmga/zapgorm2.svg)](https://pkg.go.dev/github.com/alfonmga/zapgorm2)
 
-The initial source code is from [moul/zapgorm2](https://github.com/moul/zapgorm2). I made minor changes to make it work with my projects, like settings `IgnoreRecordNotFoundError` to `true`.
+The initial source code is from [moul/zapgorm2](https://github.com/moul/zapgorm2). I made minor changes to make it work with my projects, like setting `IgnoreRecordNotFoundError` to `true`.
 
 ## Install
 
